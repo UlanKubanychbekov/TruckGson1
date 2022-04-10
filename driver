@@ -1,0 +1,29 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Kuba    ",
+    "truck": {
+      "id": 1,
+      "name": "Man  ",
+      "state": "ROUTE"
+    }
+  },
+  "2": {
+    "id": 2,
+    "name": "Tologon ",
+    "truck": {
+      "id": 2,
+      "name": "Mers ",
+      "state": "BASE"
+    }
+  },
+  "3": {
+    "id": 3,
+    "name": "Altynbek",
+    "truck": {
+      "id": 3,
+      "name": "Volvo",
+      "state": "BASE"
+    }
+  }
+}
